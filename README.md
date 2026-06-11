@@ -1,5 +1,13 @@
 # 💫 About Me:
-# Hi there 👋, I'm Yash Bamaniya<br><br>🎓 B.Tech Computer Science & Engineering (Artificial Intelligence) Student<br><br>💻 Passionate about Software Development, Artificial Intelligence, and Data Structures & Algorithms.<br><br>🌱 Currently learning Java, JDBC, Computer Networks, WordPress, and AI concepts.<br><br>🚀 Interested in building real-world projects and improving my problem-solving skills.<br><br>📚 Always exploring new technologies and contributing to projects that create meaningful impact.<br><br>📫 Let's connect and grow together through technology!<br>
+### Hi, I'm Yash 👋
+
+* 🎓 CSE (AI) Student
+* 💻 Java Developer | DSA Enthusiast
+* 🤖 Learning Artificial Intelligence & Machine Learning
+* 🌐 Exploring Web Development and WordPress
+* 🚀 Building projects and solving coding problems
+* 📈 Continuously learning and improving every day
+
 
 
 ## 🌐 Socials:
